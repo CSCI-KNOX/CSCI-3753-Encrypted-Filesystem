@@ -129,21 +129,27 @@ In addition, you may find a number of the references in the bibliography helpful
 
 ## 7. &nbsp;&nbsp;References
 [1] freedesktop.org. Guidelines for extended attributes. http://www.freedesktop.org/ wiki/CommonExtendedAttributes.
+
 [2] FUSE. Filesystems in Userspace. http://fuse.sourceforge.net/.
-[3] FUSE. Fuse Doxygen API Reference. http://fuse.sourceforge.net/doxygen/
-index.html.
-[4] FUSE. Fuse Wiki. http://sourceforge.net/apps/mediawiki/fuse/index.php?
-title=Main_Page.
-[5] Harbison, Samuel and Steele, Guy. C: A Reference Manual. Fifth Edition: 2002.
-Prentice Hall: New Jersey.
-[6] Johnson, Michael. A tour of the Linux VFS. 1996. http://tldp.org/LDP/khg/
-HyperNews/get/fs/vfstour.html.
-[7] Kernighan, Brian and Dennis, Ritchie. The C Programming Language. Second Edition:
-1988. Prentice Hall: New Jersey.
+
+[3] FUSE. Fuse Doxygen API Reference. http://fuse.sourceforge.net/doxygen/index.html.
+
+[4] FUSE. Fuse Wiki. http://sourceforge.net/apps/mediawiki/fuse/index.php?title=Main_Page.
+
+[5] Harbison, Samuel and Steele, Guy. C: A Reference Manual. Fifth Edition: 2002. Prentice Hall: New Jersey.
+
+[6] Johnson, Michael. A tour of the Linux VFS. 1996. http://tldp.org/LDP/khg/HyperNews/get/fs/vfstour.html.
+
+[7] Kernighan, Brian and Dennis, Ritchie. The C Programming Language. Second Edition:1988. Prentice Hall: New Jersey.
+
 [8] OpenSSL. Cryptography and SSL/TLS Toolkit. http://www.openssl.org/.
+
 [9] OpenSSL. OpenSSL Documents. http://www.openssl.org/docs/.
-[10] OpenSSL. OpenSSL EVP Documentation. http://www.openssl.org/docs/crypto/ EVP_EncryptInit.html.
-[11] Pillai, Saju. Openssl AES encryption example. Decemper 9th, 2008. http://saju. net.in/blog/?p=36.
-[12] Pfeiffer, Joseph. Writing a FUSE Filesystem: a Tutorial. January 10th, 2011. http: //www.cs.nmsu.edu/~pfeiffer/fuse-tutorial/.
+
+[10] OpenSSL. OpenSSL EVP Documentation. http://www.openssl.org/docs/crypto/EVP_EncryptInit.html.
+
+[11] Pillai, Saju. Openssl AES encryption example. Decemper 9th, 2008. http://saju.net.in/blog/?p=36.
+
+[12] Pfeiffer, Joseph. Writing a FUSE Filesystem: a Tutorial. January 10th, 2011. http://www.cs.nmsu.edu/~pfeiffer/fuse-tutorial/.
+
 [13] Stevens, Ted. Speech on Net Neutrality Bill. 2006. http://youtu.be/f99PcP0aFNE.
-8
