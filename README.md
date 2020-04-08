@@ -1,5 +1,5 @@
-# CSCI 3753 Spring 2018 - Programming Assignment #4
-## An Encrypted Filesystem
+# CSCI 3753 Spring 2018 -  Implementing an Encrypted Filesystem
+##  Implementing an Encrypted Filesystem on your version of Linux
 
 ## 1. &nbsp;&nbsp;Introduction
 In this assignment, we take a closer look at filesystems. You will be writing a mirroring filesystem that provides a transparent encryption wrapper on top of an exiting file system. Specifically, you will be using FUSE[2] (Filesystems in USErspace) to implement your filesystem, extended attributes (xattr) to differentiate between encrypted and unencrypted files, and the OpenSSL[8] crypto[10] library to provide secure encryption.
